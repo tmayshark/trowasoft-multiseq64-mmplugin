@@ -1,0 +1,20 @@
+{
+  "slug": "trowaSoft-multiSeq64",
+  "name": "trowaSoft multiSeq64",
+  "version": "2.0.9",
+  "license": "GPL-3.0-or-later",
+  "brand": "trowaSoft",
+  "author": "j4s0n-c",
+  "modules": [
+    {
+      "slug": "multiSeq64",
+      "name": "multiSeq64",
+      "description": "64-step trigger/variable voltage/note sequencer with OSC interface",
+      "tags": [
+        "Sequencer",
+        "Clock",
+        "Utility"
+      ]
+    }
+  ]
+} 
